@@ -19,15 +19,15 @@
 - `bind_fifo.sv` — assertion bind to FIFO for simulation
 
  # Allocation: Simulator allocated 6417 kB (elbread=427 elab2=5854 kernel=135 sdf=0)
-KERNEL: ASDB file was created in location /home/runner/dataset.asdb
-KERNEL: T=0 | wr=0 rd=0 din=00 dout=xx full=x empty=x
-KERNEL: T=5000 | wr=0 rd=0 din=00 dout=xx full=0 empty=1
-KERNEL: T=10000 | wr=1 rd=0 din=61 dout=xx full=0 empty=1
-KERNEL: Info: design.sv (83): Verify  Empty   time :15000
-KERNEL: T=15000 | wr=1 rd=0 din=16 dout=xx full=0 empty=0
-KERNEL: T=25000 | wr=1 rd=0 din=4d dout=xx full=0 empty=0
-KERNEL: T=35000 | wr=1 rd=0 din=c8 dout=xx full=0 empty=0
-KERNEL: T=45000 | wr=1 rd=0 din=d8 dout=xx full=0 empty=0
+-KERNEL: ASDB file was created in location /home/runner/dataset.asdb
+-KERNEL: T=0 | wr=0 rd=0 din=00 dout=xx full=x empty=x
+-KERNEL: T=5000 | wr=0 rd=0 din=00 dout=xx full=0 empty=1
+-KERNEL: T=10000 | wr=1 rd=0 din=61 dout=xx full=0 empty=1
+-KERNEL: Info: design.sv (83): Verify  Empty   time :15000
+-KERNEL: T=15000 | wr=1 rd=0 din=16 dout=xx full=0 empty=0
+-KERNEL: T=25000 | wr=1 rd=0 din=4d dout=xx full=0 empty=0
+-KERNEL: T=35000 | wr=1 rd=0 din=c8 dout=xx full=0 empty=0
+-KERNEL: T=45000 | wr=1 rd=0 din=d8 dout=xx full=0 empty=0
 KERNEL: T=55000 | wr=1 rd=0 din=35 dout=xx full=0 empty=0
 KERNEL: T=65000 | wr=1 rd=0 din=48 dout=xx full=0 empty=0
 KERNEL: T=75000 | wr=1 rd=0 din=9a dout=xx full=0 empty=0
